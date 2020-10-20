@@ -13,4 +13,4 @@ until count == 0
   puts "#{count}"
   counter -= 1
 end
-puts "Happy New Years"
+puts "Happy New Year!"
